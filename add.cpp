@@ -1,14 +1,18 @@
 #include <stdio.h>
-int main() {    
 
-    int number1, number2, sum;
-    
-    printf("Enter two integers: ");
-    scanf("%d %d", &number1, &number2);
+int main() {
+    // Declare variables
+    int num1, num2, result;
 
-    // calculate the sum
-    sum = number1 + number2;      
-    
-    printf("%d + %d = %d", number1, number2, sum);
+    // Initialize variables
+    num1 = 10;
+    num2 = 5;
+
+    // Perform subtraction
+    result = num1 - num2;
+
+    // Display the result
+    printf("The result of %d - %d is %d\n", num1, num2, result);
+
     return 0;
 }
