@@ -13,6 +13,7 @@ int main() {
 
     // Display the result
     printf("The result of %d - %d is %d\n", num1, num2, result);
+    printf("%d",num1);
 
     return 0;
 }
