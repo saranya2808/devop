@@ -5,8 +5,8 @@ int main() {
     int num1, num2, result;
 
     // Initialize variables
-    num1 = 10;
-    num2 = 5;
+    num1 = 100;
+    num2 = 506;
 
     // Perform subtraction
     result = num1 - num2;
