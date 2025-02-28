@@ -2,7 +2,7 @@
 
 int main() {
     // Declare variables
-    int num1, num2, num3 result;
+    int num1, num2, num3, num4 result;
 
     // Initialize variables
     num1 = 100;
