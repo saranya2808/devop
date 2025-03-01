@@ -2,11 +2,13 @@
 
 int main() {
     // Declare variables
-    int num1, num2, num3, num4 result;
+    int num1, num2, num5 result;
 
     // Initialize variables
     num1 = 100;
     num2 = 506;
+    num5 = 12:
+
 
     // Perform subtraction
     result = num1 - num2 - num3;
